@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "StudentDepartment.Abstraction/1.0.0": {
+        "dependencies": {
+          "ZA365Solutions.Platform.Common": "1.0.0",
+          "ZA365Solutions.Platform.Messaging": "1.0.0"
+        },
+        "runtime": {
+          "StudentDepartment.Abstraction.dll": {}
+        }
+      },
+      "ZA365Solutions.Platform.Common/1.0.0": {
+        "dependencies": {
+          "ZA365Solutions.Platform.Messaging": "1.0.0"
+        },
+        "runtime": {
+          "ZA365Solutions.Platform.Common.dll": {}
+        }
+      },
+      "ZA365Solutions.Platform.Messaging/1.0.0": {
+        "runtime": {
+          "ZA365Solutions.Platform.Messaging.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StudentDepartment.Abstraction/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ZA365Solutions.Platform.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ZA365Solutions.Platform.Messaging/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,45 @@
+C:\Sources\StudentDetails\ZA365Solutions.Platform.Common\bin\Debug\net5.0\ZA365Solutions.Platform.Common.deps.json
+C:\Sources\StudentDetails\ZA365Solutions.Platform.Common\bin\Debug\net5.0\ZA365Solutions.Platform.Common.dll
+C:\Sources\StudentDetails\ZA365Solutions.Platform.Common\bin\Debug\net5.0\ref\ZA365Solutions.Platform.Common.dll
+C:\Sources\StudentDetails\ZA365Solutions.Platform.Common\bin\Debug\net5.0\ZA365Solutions.Platform.Common.pdb
+C:\Sources\StudentDetails\ZA365Solutions.Platform.Common\bin\Debug\net5.0\ZA365Solutions.Platform.Messaging.dll
+C:\Sources\StudentDetails\ZA365Solutions.Platform.Common\bin\Debug\net5.0\ZA365Solutions.Platform.Messaging.pdb
+C:\Sources\StudentDetails\ZA365Solutions.Platform.Common\obj\Debug\net5.0\ZA365Solutions.Platform.Common.csproj.AssemblyReference.cache
+C:\Sources\StudentDetails\ZA365Solutions.Platform.Common\obj\Debug\net5.0\ZA365Solutions.Platform.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sources\StudentDetails\ZA365Solutions.Platform.Common\obj\Debug\net5.0\ZA365Solutions.Platform.Common.AssemblyInfoInputs.cache
+C:\Sources\StudentDetails\ZA365Solutions.Platform.Common\obj\Debug\net5.0\ZA365Solutions.Platform.Common.AssemblyInfo.cs
+C:\Sources\StudentDetails\ZA365Solutions.Platform.Common\obj\Debug\net5.0\ZA365Solutions.Platform.Common.csproj.CoreCompileInputs.cache
+C:\Sources\StudentDetails\ZA365Solutions.Platform.Common\obj\Debug\net5.0\ZA365Solutions.Platform.Common.csproj.CopyComplete
+C:\Sources\StudentDetails\ZA365Solutions.Platform.Common\obj\Debug\net5.0\ZA365Solutions.Platform.Common.dll
+C:\Sources\StudentDetails\ZA365Solutions.Platform.Common\obj\Debug\net5.0\ref\ZA365Solutions.Platform.Common.dll
+C:\Sources\StudentDetails\ZA365Solutions.Platform.Common\obj\Debug\net5.0\ZA365Solutions.Platform.Common.pdb
+C:\Sources\Lesly\Student Portal\StudentCourse\ZA365Solutions.Platform.Common\bin\Debug\net5.0\ZA365Solutions.Platform.Common.deps.json
+C:\Sources\Lesly\Student Portal\StudentCourse\ZA365Solutions.Platform.Common\bin\Debug\net5.0\ZA365Solutions.Platform.Common.dll
+C:\Sources\Lesly\Student Portal\StudentCourse\ZA365Solutions.Platform.Common\bin\Debug\net5.0\ref\ZA365Solutions.Platform.Common.dll
+C:\Sources\Lesly\Student Portal\StudentCourse\ZA365Solutions.Platform.Common\bin\Debug\net5.0\ZA365Solutions.Platform.Common.pdb
+C:\Sources\Lesly\Student Portal\StudentCourse\ZA365Solutions.Platform.Common\bin\Debug\net5.0\ZA365Solutions.Platform.Messaging.dll
+C:\Sources\Lesly\Student Portal\StudentCourse\ZA365Solutions.Platform.Common\bin\Debug\net5.0\ZA365Solutions.Platform.Messaging.pdb
+C:\Sources\Lesly\Student Portal\StudentCourse\ZA365Solutions.Platform.Common\obj\Debug\net5.0\ZA365Solutions.Platform.Common.csproj.AssemblyReference.cache
+C:\Sources\Lesly\Student Portal\StudentCourse\ZA365Solutions.Platform.Common\obj\Debug\net5.0\ZA365Solutions.Platform.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sources\Lesly\Student Portal\StudentCourse\ZA365Solutions.Platform.Common\obj\Debug\net5.0\ZA365Solutions.Platform.Common.AssemblyInfoInputs.cache
+C:\Sources\Lesly\Student Portal\StudentCourse\ZA365Solutions.Platform.Common\obj\Debug\net5.0\ZA365Solutions.Platform.Common.AssemblyInfo.cs
+C:\Sources\Lesly\Student Portal\StudentCourse\ZA365Solutions.Platform.Common\obj\Debug\net5.0\ZA365Solutions.Platform.Common.csproj.CoreCompileInputs.cache
+C:\Sources\Lesly\Student Portal\StudentCourse\ZA365Solutions.Platform.Common\obj\Debug\net5.0\ZA365Solutions.Platform.Common.csproj.CopyComplete
+C:\Sources\Lesly\Student Portal\StudentCourse\ZA365Solutions.Platform.Common\obj\Debug\net5.0\ZA365Solutions.Platform.Common.dll
+C:\Sources\Lesly\Student Portal\StudentCourse\ZA365Solutions.Platform.Common\obj\Debug\net5.0\ref\ZA365Solutions.Platform.Common.dll
+C:\Sources\Lesly\Student Portal\StudentCourse\ZA365Solutions.Platform.Common\obj\Debug\net5.0\ZA365Solutions.Platform.Common.pdb
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\ZA365Solutions.Platform.Common\bin\Debug\net5.0\ZA365Solutions.Platform.Common.deps.json
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\ZA365Solutions.Platform.Common\bin\Debug\net5.0\ZA365Solutions.Platform.Common.dll
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\ZA365Solutions.Platform.Common\bin\Debug\net5.0\ref\ZA365Solutions.Platform.Common.dll
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\ZA365Solutions.Platform.Common\bin\Debug\net5.0\ZA365Solutions.Platform.Common.pdb
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\ZA365Solutions.Platform.Common\bin\Debug\net5.0\ZA365Solutions.Platform.Messaging.dll
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\ZA365Solutions.Platform.Common\bin\Debug\net5.0\ZA365Solutions.Platform.Messaging.pdb
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\ZA365Solutions.Platform.Common\obj\Debug\net5.0\ZA365Solutions.Platform.Common.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\ZA365Solutions.Platform.Common\obj\Debug\net5.0\ZA365Solutions.Platform.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\ZA365Solutions.Platform.Common\obj\Debug\net5.0\ZA365Solutions.Platform.Common.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\ZA365Solutions.Platform.Common\obj\Debug\net5.0\ZA365Solutions.Platform.Common.AssemblyInfo.cs
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\ZA365Solutions.Platform.Common\obj\Debug\net5.0\ZA365Solutions.Platform.Common.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\ZA365Solutions.Platform.Common\obj\Debug\net5.0\ZA365Solutions.Platform.Common.csproj.CopyComplete
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\ZA365Solutions.Platform.Common\obj\Debug\net5.0\ZA365Solutions.Platform.Common.dll
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\ZA365Solutions.Platform.Common\obj\Debug\net5.0\ref\ZA365Solutions.Platform.Common.dll
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\ZA365Solutions.Platform.Common\obj\Debug\net5.0\ZA365Solutions.Platform.Common.pdb

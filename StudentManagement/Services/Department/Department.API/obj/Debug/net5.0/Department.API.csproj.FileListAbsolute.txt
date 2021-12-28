@@ -1,0 +1,7 @@
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Department\Department.API\obj\Debug\net5.0\Department.API.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Department\Department.API\obj\Debug\net5.0\Department.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Department\Department.API\obj\Debug\net5.0\Department.API.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Department\Department.API\obj\Debug\net5.0\Department.API.AssemblyInfo.cs
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Department\Department.API\obj\Debug\net5.0\Department.API.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Department\Department.API\obj\Debug\net5.0\Department.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Department\Department.API\obj\Debug\net5.0\Department.API.MvcApplicationPartsAssemblyInfo.cache

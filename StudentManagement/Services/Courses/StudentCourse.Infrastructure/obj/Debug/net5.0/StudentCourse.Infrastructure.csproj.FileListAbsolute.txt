@@ -1,0 +1,46 @@
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.Infrastructure\bin\Debug\net5.0\StudentCourse.Infrastructure.deps.json
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.Infrastructure\bin\Debug\net5.0\StudentCourse.Infrastructure.dll
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.Infrastructure\bin\Debug\net5.0\ref\StudentCourse.Infrastructure.dll
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.Infrastructure\bin\Debug\net5.0\StudentCourse.Infrastructure.pdb
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.Infrastructure\bin\Debug\net5.0\StudentCourse.Abstraction.dll
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.Infrastructure\bin\Debug\net5.0\StudentCourse.Core.dll
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.Infrastructure\bin\Debug\net5.0\StudentCourse.Core.pdb
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.Infrastructure\bin\Debug\net5.0\StudentCourse.Abstraction.pdb
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.Infrastructure\obj\Debug\net5.0\StudentCourse.Infrastructure.csproj.AssemblyReference.cache
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.Infrastructure\obj\Debug\net5.0\StudentCourse.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.Infrastructure\obj\Debug\net5.0\StudentCourse.Infrastructure.AssemblyInfoInputs.cache
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.Infrastructure\obj\Debug\net5.0\StudentCourse.Infrastructure.AssemblyInfo.cs
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.Infrastructure\obj\Debug\net5.0\StudentCourse.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.Infrastructure\obj\Debug\net5.0\StudentCourse.Infrastructure.csproj.CopyComplete
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.Infrastructure\obj\Debug\net5.0\StudentCourse.Infrastructure.dll
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.Infrastructure\obj\Debug\net5.0\ref\StudentCourse.Infrastructure.dll
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.Infrastructure\obj\Debug\net5.0\StudentCourse.Infrastructure.pdb
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.Infrastructure\bin\Debug\net5.0\ZA365Solutions.Platform.Common.dll
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.Infrastructure\bin\Debug\net5.0\ZA365Solutions.Platform.Messaging.dll
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.Infrastructure\bin\Debug\net5.0\ZA365Solutions.Platform.Common.pdb
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.Infrastructure\bin\Debug\net5.0\ZA365Solutions.Platform.Messaging.pdb
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.Infrastructure\bin\Debug\net5.0\StudentCourse.Infrastructure.deps.json
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.Infrastructure\bin\Debug\net5.0\StudentCourse.Infrastructure.dll
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.Infrastructure\bin\Debug\net5.0\ref\StudentCourse.Infrastructure.dll
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.Infrastructure\bin\Debug\net5.0\StudentCourse.Infrastructure.pdb
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.Infrastructure\bin\Debug\net5.0\StudentCourse.Abstraction.dll
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.Infrastructure\bin\Debug\net5.0\StudentCourse.Core.dll
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.Infrastructure\bin\Debug\net5.0\ZA365Solutions.Platform.Common.dll
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.Infrastructure\bin\Debug\net5.0\ZA365Solutions.Platform.Messaging.dll
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.Infrastructure\bin\Debug\net5.0\StudentCourse.Core.pdb
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.Infrastructure\bin\Debug\net5.0\StudentCourse.Abstraction.pdb
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.Infrastructure\bin\Debug\net5.0\ZA365Solutions.Platform.Common.pdb
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.Infrastructure\bin\Debug\net5.0\ZA365Solutions.Platform.Messaging.pdb
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.Infrastructure\obj\Debug\net5.0\StudentCourse.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.Infrastructure\obj\Debug\net5.0\StudentCourse.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.Infrastructure\obj\Debug\net5.0\StudentCourse.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.Infrastructure\obj\Debug\net5.0\StudentCourse.Infrastructure.AssemblyInfo.cs
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.Infrastructure\obj\Debug\net5.0\StudentCourse.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.Infrastructure\obj\Debug\net5.0\StudentCourse.Infrastructure.csproj.CopyComplete
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.Infrastructure\obj\Debug\net5.0\StudentCourse.Infrastructure.dll
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.Infrastructure\obj\Debug\net5.0\ref\StudentCourse.Infrastructure.dll
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.Infrastructure\obj\Debug\net5.0\StudentCourse.Infrastructure.pdb
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.Infrastructure\bin\Debug\net5.0\StudentDepartment.Abstraction.dll
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.Infrastructure\bin\Debug\net5.0\StudentDepartment.Core.dll
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.Infrastructure\bin\Debug\net5.0\StudentDepartment.Abstraction.pdb
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.Infrastructure\bin\Debug\net5.0\StudentDepartment.Core.pdb

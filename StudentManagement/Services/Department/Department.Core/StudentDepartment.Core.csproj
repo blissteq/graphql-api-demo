@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Courses\StudentCourse.Abstraction\StudentCourse.Abstraction.csproj" />
+    <ProjectReference Include="..\Department.Abstraction\StudentDepartment.Abstraction.csproj" />
+    <ProjectReference Include="..\ZA365Solutions.Platform.Common\ZA365Solutions.Platform.Common.csproj" />
+  </ItemGroup>
+
+</Project>

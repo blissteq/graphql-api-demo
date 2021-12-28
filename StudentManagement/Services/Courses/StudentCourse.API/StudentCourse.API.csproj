@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <UserSecretsId>a2e17726-48d7-4a79-9df5-913657df0273</UserSecretsId>
+    <DockerDefaultTargetOS>Windows</DockerDefaultTargetOS>
+    <DockerComposeProjectPath>..\docker-compose.dcproj</DockerComposeProjectPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="HotChocolate.AspNetCore" Version="12.3.2" />
+    <PackageReference Include="HotChocolate.Data.MongoDb" Version="12.3.2" />
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.11.1" />
+    <PackageReference Include="MongoDB.Driver" Version="2.14.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\StudentCourse.Abstraction\StudentCourse.Abstraction.csproj" />
+    <ProjectReference Include="..\StudentCourse.Core\StudentCourse.Core.csproj" />
+    <ProjectReference Include="..\StudentCourse.Infrastructure\StudentCourse.Infrastructure.csproj" />
+  </ItemGroup>
+
+ 
+
+</Project>

@@ -1,0 +1,34 @@
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.Abstraction\bin\Debug\net5.0\StudentCourse.Abstraction.deps.json
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.Abstraction\bin\Debug\net5.0\StudentCourse.Abstraction.dll
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.Abstraction\bin\Debug\net5.0\ref\StudentCourse.Abstraction.dll
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.Abstraction\bin\Debug\net5.0\StudentCourse.Abstraction.pdb
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.Abstraction\obj\Debug\net5.0\StudentCourse.Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.Abstraction\obj\Debug\net5.0\StudentCourse.Abstraction.AssemblyInfoInputs.cache
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.Abstraction\obj\Debug\net5.0\StudentCourse.Abstraction.AssemblyInfo.cs
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.Abstraction\obj\Debug\net5.0\StudentCourse.Abstraction.csproj.CoreCompileInputs.cache
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.Abstraction\obj\Debug\net5.0\StudentCourse.Abstraction.dll
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.Abstraction\obj\Debug\net5.0\ref\StudentCourse.Abstraction.dll
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.Abstraction\obj\Debug\net5.0\StudentCourse.Abstraction.pdb
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.Abstraction\obj\Debug\net5.0\StudentCourse.Abstraction.csproj.AssemblyReference.cache
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.Abstraction\bin\Debug\net5.0\ZA365Solutions.Platform.Common.dll
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.Abstraction\bin\Debug\net5.0\ZA365Solutions.Platform.Messaging.dll
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.Abstraction\bin\Debug\net5.0\ZA365Solutions.Platform.Common.pdb
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.Abstraction\bin\Debug\net5.0\ZA365Solutions.Platform.Messaging.pdb
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.Abstraction\obj\Debug\net5.0\StudentCourse.Abstraction.csproj.CopyComplete
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.Abstraction\bin\Debug\net5.0\StudentCourse.Abstraction.deps.json
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.Abstraction\bin\Debug\net5.0\StudentCourse.Abstraction.dll
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.Abstraction\bin\Debug\net5.0\ref\StudentCourse.Abstraction.dll
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.Abstraction\bin\Debug\net5.0\StudentCourse.Abstraction.pdb
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.Abstraction\bin\Debug\net5.0\ZA365Solutions.Platform.Common.dll
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.Abstraction\bin\Debug\net5.0\ZA365Solutions.Platform.Messaging.dll
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.Abstraction\bin\Debug\net5.0\ZA365Solutions.Platform.Common.pdb
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.Abstraction\bin\Debug\net5.0\ZA365Solutions.Platform.Messaging.pdb
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.Abstraction\obj\Debug\net5.0\StudentCourse.Abstraction.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.Abstraction\obj\Debug\net5.0\StudentCourse.Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.Abstraction\obj\Debug\net5.0\StudentCourse.Abstraction.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.Abstraction\obj\Debug\net5.0\StudentCourse.Abstraction.AssemblyInfo.cs
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.Abstraction\obj\Debug\net5.0\StudentCourse.Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.Abstraction\obj\Debug\net5.0\StudentCourse.Abstraction.csproj.CopyComplete
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.Abstraction\obj\Debug\net5.0\StudentCourse.Abstraction.dll
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.Abstraction\obj\Debug\net5.0\ref\StudentCourse.Abstraction.dll
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.Abstraction\obj\Debug\net5.0\StudentCourse.Abstraction.pdb

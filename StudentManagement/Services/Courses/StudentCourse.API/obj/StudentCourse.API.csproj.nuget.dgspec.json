@@ -1,0 +1,714 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Dell\\source\\repos\\StudentManagementGraphQL\\StudentManagement\\Services\\Courses\\StudentCourse.API\\StudentCourse.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Dell\\source\\repos\\StudentManagementGraphQL\\StudentManagement\\Services\\Courses\\StudentCourse.Abstraction\\StudentCourse.Abstraction.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Dell\\source\\repos\\StudentManagementGraphQL\\StudentManagement\\Services\\Courses\\StudentCourse.Abstraction\\StudentCourse.Abstraction.csproj",
+        "projectName": "StudentCourse.Abstraction",
+        "projectPath": "C:\\Users\\Dell\\source\\repos\\StudentManagementGraphQL\\StudentManagement\\Services\\Courses\\StudentCourse.Abstraction\\StudentCourse.Abstraction.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dell\\source\\repos\\StudentManagementGraphQL\\StudentManagement\\Services\\Courses\\StudentCourse.Abstraction\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Dell\\source\\repos\\StudentManagementGraphQL\\StudentManagement\\Services\\Courses\\ZA365Solutions.Platform.Common\\ZA365Solutions.Platform.Common.csproj": {
+                "projectPath": "C:\\Users\\Dell\\source\\repos\\StudentManagementGraphQL\\StudentManagement\\Services\\Courses\\ZA365Solutions.Platform.Common\\ZA365Solutions.Platform.Common.csproj"
+              },
+              "C:\\Users\\Dell\\source\\repos\\StudentManagementGraphQL\\StudentManagement\\Services\\Courses\\ZA365Solutions.Platform.Messaging\\ZA365Solutions.Platform.Messaging.csproj": {
+                "projectPath": "C:\\Users\\Dell\\source\\repos\\StudentManagementGraphQL\\StudentManagement\\Services\\Courses\\ZA365Solutions.Platform.Messaging\\ZA365Solutions.Platform.Messaging.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "HotChocolate.AspNetCore": {
+              "target": "Package",
+              "version": "[12.3.2, )"
+            },
+            "HotChocolate.Data.MongoDb": {
+              "target": "Package",
+              "version": "[12.3.2, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.14.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Dell\\source\\repos\\StudentManagementGraphQL\\StudentManagement\\Services\\Courses\\StudentCourse.API\\StudentCourse.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Dell\\source\\repos\\StudentManagementGraphQL\\StudentManagement\\Services\\Courses\\StudentCourse.API\\StudentCourse.API.csproj",
+        "projectName": "StudentCourse.API",
+        "projectPath": "C:\\Users\\Dell\\source\\repos\\StudentManagementGraphQL\\StudentManagement\\Services\\Courses\\StudentCourse.API\\StudentCourse.API.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dell\\source\\repos\\StudentManagementGraphQL\\StudentManagement\\Services\\Courses\\StudentCourse.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Dell\\source\\repos\\StudentManagementGraphQL\\StudentManagement\\Services\\Courses\\StudentCourse.Abstraction\\StudentCourse.Abstraction.csproj": {
+                "projectPath": "C:\\Users\\Dell\\source\\repos\\StudentManagementGraphQL\\StudentManagement\\Services\\Courses\\StudentCourse.Abstraction\\StudentCourse.Abstraction.csproj"
+              },
+              "C:\\Users\\Dell\\source\\repos\\StudentManagementGraphQL\\StudentManagement\\Services\\Courses\\StudentCourse.Core\\StudentCourse.Core.csproj": {
+                "projectPath": "C:\\Users\\Dell\\source\\repos\\StudentManagementGraphQL\\StudentManagement\\Services\\Courses\\StudentCourse.Core\\StudentCourse.Core.csproj"
+              },
+              "C:\\Users\\Dell\\source\\repos\\StudentManagementGraphQL\\StudentManagement\\Services\\Courses\\StudentCourse.Infrastructure\\StudentCourse.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Dell\\source\\repos\\StudentManagementGraphQL\\StudentManagement\\Services\\Courses\\StudentCourse.Infrastructure\\StudentCourse.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "HotChocolate.AspNetCore": {
+              "target": "Package",
+              "version": "[12.3.2, )"
+            },
+            "HotChocolate.Data.MongoDb": {
+              "target": "Package",
+              "version": "[12.3.2, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.11.1, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.14.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Dell\\source\\repos\\StudentManagementGraphQL\\StudentManagement\\Services\\Courses\\StudentCourse.Core\\StudentCourse.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Dell\\source\\repos\\StudentManagementGraphQL\\StudentManagement\\Services\\Courses\\StudentCourse.Core\\StudentCourse.Core.csproj",
+        "projectName": "StudentCourse.Core",
+        "projectPath": "C:\\Users\\Dell\\source\\repos\\StudentManagementGraphQL\\StudentManagement\\Services\\Courses\\StudentCourse.Core\\StudentCourse.Core.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dell\\source\\repos\\StudentManagementGraphQL\\StudentManagement\\Services\\Courses\\StudentCourse.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Dell\\source\\repos\\StudentManagementGraphQL\\StudentManagement\\Services\\Courses\\StudentCourse.Abstraction\\StudentCourse.Abstraction.csproj": {
+                "projectPath": "C:\\Users\\Dell\\source\\repos\\StudentManagementGraphQL\\StudentManagement\\Services\\Courses\\StudentCourse.Abstraction\\StudentCourse.Abstraction.csproj"
+              },
+              "C:\\Users\\Dell\\source\\repos\\StudentManagementGraphQL\\StudentManagement\\Services\\Courses\\ZA365Solutions.Platform.Common\\ZA365Solutions.Platform.Common.csproj": {
+                "projectPath": "C:\\Users\\Dell\\source\\repos\\StudentManagementGraphQL\\StudentManagement\\Services\\Courses\\ZA365Solutions.Platform.Common\\ZA365Solutions.Platform.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "HotChocolate.AspNetCore": {
+              "target": "Package",
+              "version": "[12.3.2, )"
+            },
+            "HotChocolate.Data.MongoDb": {
+              "target": "Package",
+              "version": "[12.3.2, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.14.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Dell\\source\\repos\\StudentManagementGraphQL\\StudentManagement\\Services\\Courses\\StudentCourse.Infrastructure\\StudentCourse.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Dell\\source\\repos\\StudentManagementGraphQL\\StudentManagement\\Services\\Courses\\StudentCourse.Infrastructure\\StudentCourse.Infrastructure.csproj",
+        "projectName": "StudentCourse.Infrastructure",
+        "projectPath": "C:\\Users\\Dell\\source\\repos\\StudentManagementGraphQL\\StudentManagement\\Services\\Courses\\StudentCourse.Infrastructure\\StudentCourse.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dell\\source\\repos\\StudentManagementGraphQL\\StudentManagement\\Services\\Courses\\StudentCourse.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Dell\\source\\repos\\StudentManagementGraphQL\\StudentManagement\\Services\\Courses\\StudentCourse.Core\\StudentCourse.Core.csproj": {
+                "projectPath": "C:\\Users\\Dell\\source\\repos\\StudentManagementGraphQL\\StudentManagement\\Services\\Courses\\StudentCourse.Core\\StudentCourse.Core.csproj"
+              },
+              "C:\\Users\\Dell\\source\\repos\\StudentManagementGraphQL\\StudentManagement\\Services\\Department\\Department.Abstraction\\StudentDepartment.Abstraction.csproj": {
+                "projectPath": "C:\\Users\\Dell\\source\\repos\\StudentManagementGraphQL\\StudentManagement\\Services\\Department\\Department.Abstraction\\StudentDepartment.Abstraction.csproj"
+              },
+              "C:\\Users\\Dell\\source\\repos\\StudentManagementGraphQL\\StudentManagement\\Services\\Department\\Department.Core\\StudentDepartment.Core.csproj": {
+                "projectPath": "C:\\Users\\Dell\\source\\repos\\StudentManagementGraphQL\\StudentManagement\\Services\\Department\\Department.Core\\StudentDepartment.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "HotChocolate.AspNetCore": {
+              "target": "Package",
+              "version": "[12.3.2, )"
+            },
+            "HotChocolate.Data.MongoDb": {
+              "target": "Package",
+              "version": "[12.3.2, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.14.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Dell\\source\\repos\\StudentManagementGraphQL\\StudentManagement\\Services\\Courses\\ZA365Solutions.Platform.Common\\ZA365Solutions.Platform.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Dell\\source\\repos\\StudentManagementGraphQL\\StudentManagement\\Services\\Courses\\ZA365Solutions.Platform.Common\\ZA365Solutions.Platform.Common.csproj",
+        "projectName": "ZA365Solutions.Platform.Common",
+        "projectPath": "C:\\Users\\Dell\\source\\repos\\StudentManagementGraphQL\\StudentManagement\\Services\\Courses\\ZA365Solutions.Platform.Common\\ZA365Solutions.Platform.Common.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dell\\source\\repos\\StudentManagementGraphQL\\StudentManagement\\Services\\Courses\\ZA365Solutions.Platform.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Dell\\source\\repos\\StudentManagementGraphQL\\StudentManagement\\Services\\Courses\\ZA365Solutions.Platform.Messaging\\ZA365Solutions.Platform.Messaging.csproj": {
+                "projectPath": "C:\\Users\\Dell\\source\\repos\\StudentManagementGraphQL\\StudentManagement\\Services\\Courses\\ZA365Solutions.Platform.Messaging\\ZA365Solutions.Platform.Messaging.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Dell\\source\\repos\\StudentManagementGraphQL\\StudentManagement\\Services\\Courses\\ZA365Solutions.Platform.Messaging\\ZA365Solutions.Platform.Messaging.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Dell\\source\\repos\\StudentManagementGraphQL\\StudentManagement\\Services\\Courses\\ZA365Solutions.Platform.Messaging\\ZA365Solutions.Platform.Messaging.csproj",
+        "projectName": "ZA365Solutions.Platform.Messaging",
+        "projectPath": "C:\\Users\\Dell\\source\\repos\\StudentManagementGraphQL\\StudentManagement\\Services\\Courses\\ZA365Solutions.Platform.Messaging\\ZA365Solutions.Platform.Messaging.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dell\\source\\repos\\StudentManagementGraphQL\\StudentManagement\\Services\\Courses\\ZA365Solutions.Platform.Messaging\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Dell\\source\\repos\\StudentManagementGraphQL\\StudentManagement\\Services\\Department\\Department.Abstraction\\StudentDepartment.Abstraction.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Dell\\source\\repos\\StudentManagementGraphQL\\StudentManagement\\Services\\Department\\Department.Abstraction\\StudentDepartment.Abstraction.csproj",
+        "projectName": "StudentDepartment.Abstraction",
+        "projectPath": "C:\\Users\\Dell\\source\\repos\\StudentManagementGraphQL\\StudentManagement\\Services\\Department\\Department.Abstraction\\StudentDepartment.Abstraction.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dell\\source\\repos\\StudentManagementGraphQL\\StudentManagement\\Services\\Department\\Department.Abstraction\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Dell\\source\\repos\\StudentManagementGraphQL\\StudentManagement\\Services\\Department\\ZA365Solutions.Platform.Common\\ZA365Solutions.Platform.Common.csproj": {
+                "projectPath": "C:\\Users\\Dell\\source\\repos\\StudentManagementGraphQL\\StudentManagement\\Services\\Department\\ZA365Solutions.Platform.Common\\ZA365Solutions.Platform.Common.csproj"
+              },
+              "C:\\Users\\Dell\\source\\repos\\StudentManagementGraphQL\\StudentManagement\\Services\\Department\\ZA365Solutions.Platform.Messaging\\ZA365Solutions.Platform.Messaging.csproj": {
+                "projectPath": "C:\\Users\\Dell\\source\\repos\\StudentManagementGraphQL\\StudentManagement\\Services\\Department\\ZA365Solutions.Platform.Messaging\\ZA365Solutions.Platform.Messaging.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Dell\\source\\repos\\StudentManagementGraphQL\\StudentManagement\\Services\\Department\\Department.Core\\StudentDepartment.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Dell\\source\\repos\\StudentManagementGraphQL\\StudentManagement\\Services\\Department\\Department.Core\\StudentDepartment.Core.csproj",
+        "projectName": "StudentDepartment.Core",
+        "projectPath": "C:\\Users\\Dell\\source\\repos\\StudentManagementGraphQL\\StudentManagement\\Services\\Department\\Department.Core\\StudentDepartment.Core.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dell\\source\\repos\\StudentManagementGraphQL\\StudentManagement\\Services\\Department\\Department.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Dell\\source\\repos\\StudentManagementGraphQL\\StudentManagement\\Services\\Courses\\StudentCourse.Abstraction\\StudentCourse.Abstraction.csproj": {
+                "projectPath": "C:\\Users\\Dell\\source\\repos\\StudentManagementGraphQL\\StudentManagement\\Services\\Courses\\StudentCourse.Abstraction\\StudentCourse.Abstraction.csproj"
+              },
+              "C:\\Users\\Dell\\source\\repos\\StudentManagementGraphQL\\StudentManagement\\Services\\Department\\Department.Abstraction\\StudentDepartment.Abstraction.csproj": {
+                "projectPath": "C:\\Users\\Dell\\source\\repos\\StudentManagementGraphQL\\StudentManagement\\Services\\Department\\Department.Abstraction\\StudentDepartment.Abstraction.csproj"
+              },
+              "C:\\Users\\Dell\\source\\repos\\StudentManagementGraphQL\\StudentManagement\\Services\\Department\\ZA365Solutions.Platform.Common\\ZA365Solutions.Platform.Common.csproj": {
+                "projectPath": "C:\\Users\\Dell\\source\\repos\\StudentManagementGraphQL\\StudentManagement\\Services\\Department\\ZA365Solutions.Platform.Common\\ZA365Solutions.Platform.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Dell\\source\\repos\\StudentManagementGraphQL\\StudentManagement\\Services\\Department\\ZA365Solutions.Platform.Common\\ZA365Solutions.Platform.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Dell\\source\\repos\\StudentManagementGraphQL\\StudentManagement\\Services\\Department\\ZA365Solutions.Platform.Common\\ZA365Solutions.Platform.Common.csproj",
+        "projectName": "ZA365Solutions.Platform.Common",
+        "projectPath": "C:\\Users\\Dell\\source\\repos\\StudentManagementGraphQL\\StudentManagement\\Services\\Department\\ZA365Solutions.Platform.Common\\ZA365Solutions.Platform.Common.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dell\\source\\repos\\StudentManagementGraphQL\\StudentManagement\\Services\\Department\\ZA365Solutions.Platform.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Dell\\source\\repos\\StudentManagementGraphQL\\StudentManagement\\Services\\Department\\ZA365Solutions.Platform.Messaging\\ZA365Solutions.Platform.Messaging.csproj": {
+                "projectPath": "C:\\Users\\Dell\\source\\repos\\StudentManagementGraphQL\\StudentManagement\\Services\\Department\\ZA365Solutions.Platform.Messaging\\ZA365Solutions.Platform.Messaging.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Dell\\source\\repos\\StudentManagementGraphQL\\StudentManagement\\Services\\Department\\ZA365Solutions.Platform.Messaging\\ZA365Solutions.Platform.Messaging.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Dell\\source\\repos\\StudentManagementGraphQL\\StudentManagement\\Services\\Department\\ZA365Solutions.Platform.Messaging\\ZA365Solutions.Platform.Messaging.csproj",
+        "projectName": "ZA365Solutions.Platform.Messaging",
+        "projectPath": "C:\\Users\\Dell\\source\\repos\\StudentManagementGraphQL\\StudentManagement\\Services\\Department\\ZA365Solutions.Platform.Messaging\\ZA365Solutions.Platform.Messaging.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dell\\source\\repos\\StudentManagementGraphQL\\StudentManagement\\Services\\Department\\ZA365Solutions.Platform.Messaging\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

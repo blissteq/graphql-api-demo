@@ -1,0 +1,238 @@
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.API\bin\Debug\net5.0\appsettings.json
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.API\bin\Debug\net5.0\StudentCourse.API.exe
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.API\bin\Debug\net5.0\StudentCourse.API.deps.json
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.API\bin\Debug\net5.0\StudentCourse.API.runtimeconfig.json
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.API\bin\Debug\net5.0\StudentCourse.API.runtimeconfig.dev.json
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.API\bin\Debug\net5.0\StudentCourse.API.dll
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.API\bin\Debug\net5.0\ref\StudentCourse.API.dll
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.API\bin\Debug\net5.0\StudentCourse.API.pdb
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.API\bin\Debug\net5.0\DnsClient.dll
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.API\bin\Debug\net5.0\GreenDonut.dll
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.API\bin\Debug\net5.0\HotChocolate.Abstractions.dll
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.API\bin\Debug\net5.0\HotChocolate.AspNetCore.dll
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.API\bin\Debug\net5.0\HotChocolate.Data.dll
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.API\bin\Debug\net5.0\HotChocolate.Data.MongoDb.dll
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.API\bin\Debug\net5.0\HotChocolate.Execution.dll
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.API\bin\Debug\net5.0\HotChocolate.Fetching.dll
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.API\bin\Debug\net5.0\HotChocolate.Language.dll
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.API\bin\Debug\net5.0\HotChocolate.Language.SyntaxTree.dll
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.API\bin\Debug\net5.0\HotChocolate.Language.Utf8.dll
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.API\bin\Debug\net5.0\HotChocolate.Language.Visitors.dll
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.API\bin\Debug\net5.0\HotChocolate.Subscriptions.dll
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.API\bin\Debug\net5.0\HotChocolate.Subscriptions.InMemory.dll
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.API\bin\Debug\net5.0\HotChocolate.Types.dll
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.API\bin\Debug\net5.0\HotChocolate.Types.CursorPagination.dll
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.API\bin\Debug\net5.0\HotChocolate.Types.OffsetPagination.dll
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.API\bin\Debug\net5.0\HotChocolate.Types.Scalars.Upload.dll
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.API\bin\Debug\net5.0\HotChocolate.Utilities.dll
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.API\bin\Debug\net5.0\HotChocolate.Utilities.Introspection.dll
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.API\bin\Debug\net5.0\HotChocolate.Validation.dll
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.API\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.API\bin\Debug\net5.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.API\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.API\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.API\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.API\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.API\bin\Debug\net5.0\SharpCompress.dll
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.API\bin\Debug\net5.0\ZA365Solutions.Platform.Common.dll
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.API\bin\Debug\net5.0\ZA365Solutions.Platform.Messaging.dll
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.API\bin\Debug\net5.0\runtimes\linux\native\libsnappy64.so
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.API\bin\Debug\net5.0\runtimes\linux\native\libzstd.so
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.API\bin\Debug\net5.0\runtimes\osx\native\libsnappy64.dylib
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.API\bin\Debug\net5.0\runtimes\osx\native\libzstd.dylib
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.API\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.API\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.API\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.API\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.API\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.API\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.API\bin\Debug\net5.0\StudentCourse.Abstraction.dll
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.API\bin\Debug\net5.0\StudentCourse.Abstraction.pdb
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.API\obj\Debug\net5.0\StudentCourse.API.csproj.AssemblyReference.cache
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.API\obj\Debug\net5.0\StudentCourse.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.API\obj\Debug\net5.0\StudentCourse.API.AssemblyInfoInputs.cache
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.API\obj\Debug\net5.0\StudentCourse.API.AssemblyInfo.cs
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.API\obj\Debug\net5.0\StudentCourse.API.csproj.CoreCompileInputs.cache
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.API\obj\Debug\net5.0\StudentCourse.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.API\obj\Debug\net5.0\StudentCourse.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.API\obj\Debug\net5.0\staticwebassets\StudentCourse.API.StaticWebAssets.Manifest.cache
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.API\obj\Debug\net5.0\staticwebassets\StudentCourse.API.StaticWebAssets.xml
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.API\obj\Debug\net5.0\scopedcss\bundle\StudentCourse.API.styles.css
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.API\obj\Debug\net5.0\StudentCourse.API.RazorTargetAssemblyInfo.cache
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.API\obj\Debug\net5.0\StudentCourse.API.csproj.CopyComplete
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.API\obj\Debug\net5.0\StudentCourse.API.dll
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.API\obj\Debug\net5.0\ref\StudentCourse.API.dll
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.API\obj\Debug\net5.0\StudentCourse.API.pdb
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.API\obj\Debug\net5.0\StudentCourse.API.genruntimeconfig.cache
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.API\bin\Debug\net5.0\StudentCourse.Core.dll
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.API\bin\Debug\net5.0\StudentCourse.Infrastructure.dll
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.API\bin\Debug\net5.0\StudentCourse.Core.pdb
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.API\bin\Debug\net5.0\StudentCourse.Infrastructure.pdb
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.API\bin\Debug\net5.0\ZA365Solutions.Platform.Common.pdb
+C:\Sources\Lesly\Student Portal\StudentCourse\StudentCourse.API\bin\Debug\net5.0\ZA365Solutions.Platform.Messaging.pdb
+C:\Sources\Windows\StudentCourses\StudentCourse.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Sources\Windows\StudentCourses\StudentCourse.API\bin\Debug\net5.0\appsettings.json
+C:\Sources\Windows\StudentCourses\StudentCourse.API\bin\Debug\net5.0\StudentCourse.API.exe
+C:\Sources\Windows\StudentCourses\StudentCourse.API\bin\Debug\net5.0\StudentCourse.API.deps.json
+C:\Sources\Windows\StudentCourses\StudentCourse.API\bin\Debug\net5.0\StudentCourse.API.runtimeconfig.json
+C:\Sources\Windows\StudentCourses\StudentCourse.API\bin\Debug\net5.0\StudentCourse.API.runtimeconfig.dev.json
+C:\Sources\Windows\StudentCourses\StudentCourse.API\bin\Debug\net5.0\StudentCourse.API.dll
+C:\Sources\Windows\StudentCourses\StudentCourse.API\bin\Debug\net5.0\ref\StudentCourse.API.dll
+C:\Sources\Windows\StudentCourses\StudentCourse.API\bin\Debug\net5.0\StudentCourse.API.pdb
+C:\Sources\Windows\StudentCourses\StudentCourse.API\bin\Debug\net5.0\DnsClient.dll
+C:\Sources\Windows\StudentCourses\StudentCourse.API\bin\Debug\net5.0\GreenDonut.dll
+C:\Sources\Windows\StudentCourses\StudentCourse.API\bin\Debug\net5.0\HotChocolate.Abstractions.dll
+C:\Sources\Windows\StudentCourses\StudentCourse.API\bin\Debug\net5.0\HotChocolate.AspNetCore.dll
+C:\Sources\Windows\StudentCourses\StudentCourse.API\bin\Debug\net5.0\HotChocolate.Data.dll
+C:\Sources\Windows\StudentCourses\StudentCourse.API\bin\Debug\net5.0\HotChocolate.Data.MongoDb.dll
+C:\Sources\Windows\StudentCourses\StudentCourse.API\bin\Debug\net5.0\HotChocolate.Execution.dll
+C:\Sources\Windows\StudentCourses\StudentCourse.API\bin\Debug\net5.0\HotChocolate.Fetching.dll
+C:\Sources\Windows\StudentCourses\StudentCourse.API\bin\Debug\net5.0\HotChocolate.Language.dll
+C:\Sources\Windows\StudentCourses\StudentCourse.API\bin\Debug\net5.0\HotChocolate.Language.SyntaxTree.dll
+C:\Sources\Windows\StudentCourses\StudentCourse.API\bin\Debug\net5.0\HotChocolate.Language.Utf8.dll
+C:\Sources\Windows\StudentCourses\StudentCourse.API\bin\Debug\net5.0\HotChocolate.Language.Visitors.dll
+C:\Sources\Windows\StudentCourses\StudentCourse.API\bin\Debug\net5.0\HotChocolate.Subscriptions.dll
+C:\Sources\Windows\StudentCourses\StudentCourse.API\bin\Debug\net5.0\HotChocolate.Subscriptions.InMemory.dll
+C:\Sources\Windows\StudentCourses\StudentCourse.API\bin\Debug\net5.0\HotChocolate.Types.dll
+C:\Sources\Windows\StudentCourses\StudentCourse.API\bin\Debug\net5.0\HotChocolate.Types.CursorPagination.dll
+C:\Sources\Windows\StudentCourses\StudentCourse.API\bin\Debug\net5.0\HotChocolate.Types.OffsetPagination.dll
+C:\Sources\Windows\StudentCourses\StudentCourse.API\bin\Debug\net5.0\HotChocolate.Types.Scalars.Upload.dll
+C:\Sources\Windows\StudentCourses\StudentCourse.API\bin\Debug\net5.0\HotChocolate.Utilities.dll
+C:\Sources\Windows\StudentCourses\StudentCourse.API\bin\Debug\net5.0\HotChocolate.Utilities.Introspection.dll
+C:\Sources\Windows\StudentCourses\StudentCourse.API\bin\Debug\net5.0\HotChocolate.Validation.dll
+C:\Sources\Windows\StudentCourses\StudentCourse.API\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Sources\Windows\StudentCourses\StudentCourse.API\bin\Debug\net5.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Sources\Windows\StudentCourses\StudentCourse.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Sources\Windows\StudentCourses\StudentCourse.API\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Sources\Windows\StudentCourses\StudentCourse.API\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Sources\Windows\StudentCourses\StudentCourse.API\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Sources\Windows\StudentCourses\StudentCourse.API\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\Sources\Windows\StudentCourses\StudentCourse.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Sources\Windows\StudentCourses\StudentCourse.API\bin\Debug\net5.0\SharpCompress.dll
+C:\Sources\Windows\StudentCourses\StudentCourse.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Sources\Windows\StudentCourses\StudentCourse.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Sources\Windows\StudentCourses\StudentCourse.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Sources\Windows\StudentCourses\StudentCourse.API\bin\Debug\net5.0\runtimes\linux\native\libsnappy64.so
+C:\Sources\Windows\StudentCourses\StudentCourse.API\bin\Debug\net5.0\runtimes\linux\native\libzstd.so
+C:\Sources\Windows\StudentCourses\StudentCourse.API\bin\Debug\net5.0\runtimes\osx\native\libsnappy64.dylib
+C:\Sources\Windows\StudentCourses\StudentCourse.API\bin\Debug\net5.0\runtimes\osx\native\libzstd.dylib
+C:\Sources\Windows\StudentCourses\StudentCourse.API\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+C:\Sources\Windows\StudentCourses\StudentCourse.API\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+C:\Sources\Windows\StudentCourses\StudentCourse.API\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+C:\Sources\Windows\StudentCourses\StudentCourse.API\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+C:\Sources\Windows\StudentCourses\StudentCourse.API\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Sources\Windows\StudentCourses\StudentCourse.API\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+C:\Sources\Windows\StudentCourses\StudentCourse.API\bin\Debug\net5.0\StudentCourse.Abstraction.dll
+C:\Sources\Windows\StudentCourses\StudentCourse.API\bin\Debug\net5.0\StudentCourse.Core.dll
+C:\Sources\Windows\StudentCourses\StudentCourse.API\bin\Debug\net5.0\StudentCourse.Infrastructure.dll
+C:\Sources\Windows\StudentCourses\StudentCourse.API\bin\Debug\net5.0\ZA365Solutions.Platform.Common.dll
+C:\Sources\Windows\StudentCourses\StudentCourse.API\bin\Debug\net5.0\ZA365Solutions.Platform.Messaging.dll
+C:\Sources\Windows\StudentCourses\StudentCourse.API\bin\Debug\net5.0\StudentCourse.Abstraction.pdb
+C:\Sources\Windows\StudentCourses\StudentCourse.API\bin\Debug\net5.0\StudentCourse.Core.pdb
+C:\Sources\Windows\StudentCourses\StudentCourse.API\bin\Debug\net5.0\StudentCourse.Infrastructure.pdb
+C:\Sources\Windows\StudentCourses\StudentCourse.API\bin\Debug\net5.0\ZA365Solutions.Platform.Common.pdb
+C:\Sources\Windows\StudentCourses\StudentCourse.API\bin\Debug\net5.0\ZA365Solutions.Platform.Messaging.pdb
+C:\Sources\Windows\StudentCourses\StudentCourse.API\obj\Debug\net5.0\StudentCourse.API.csproj.AssemblyReference.cache
+C:\Sources\Windows\StudentCourses\StudentCourse.API\obj\Debug\net5.0\StudentCourse.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sources\Windows\StudentCourses\StudentCourse.API\obj\Debug\net5.0\StudentCourse.API.AssemblyInfoInputs.cache
+C:\Sources\Windows\StudentCourses\StudentCourse.API\obj\Debug\net5.0\StudentCourse.API.AssemblyInfo.cs
+C:\Sources\Windows\StudentCourses\StudentCourse.API\obj\Debug\net5.0\StudentCourse.API.csproj.CoreCompileInputs.cache
+C:\Sources\Windows\StudentCourses\StudentCourse.API\obj\Debug\net5.0\StudentCourse.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Sources\Windows\StudentCourses\StudentCourse.API\obj\Debug\net5.0\StudentCourse.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Sources\Windows\StudentCourses\StudentCourse.API\obj\Debug\net5.0\staticwebassets\StudentCourse.API.StaticWebAssets.Manifest.cache
+C:\Sources\Windows\StudentCourses\StudentCourse.API\obj\Debug\net5.0\staticwebassets\StudentCourse.API.StaticWebAssets.xml
+C:\Sources\Windows\StudentCourses\StudentCourse.API\obj\Debug\net5.0\scopedcss\bundle\StudentCourse.API.styles.css
+C:\Sources\Windows\StudentCourses\StudentCourse.API\obj\Debug\net5.0\StudentCourse.API.RazorTargetAssemblyInfo.cache
+C:\Sources\Windows\StudentCourses\StudentCourse.API\obj\Debug\net5.0\StudentCourse.API.csproj.CopyComplete
+C:\Sources\Windows\StudentCourses\StudentCourse.API\obj\Debug\net5.0\StudentCourse.API.dll
+C:\Sources\Windows\StudentCourses\StudentCourse.API\obj\Debug\net5.0\ref\StudentCourse.API.dll
+C:\Sources\Windows\StudentCourses\StudentCourse.API\obj\Debug\net5.0\StudentCourse.API.pdb
+C:\Sources\Windows\StudentCourses\StudentCourse.API\obj\Debug\net5.0\StudentCourse.API.genruntimeconfig.cache
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.API\bin\Debug\net5.0\appsettings.json
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.API\bin\Debug\net5.0\StudentCourse.API.exe
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.API\bin\Debug\net5.0\StudentCourse.API.deps.json
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.API\bin\Debug\net5.0\StudentCourse.API.runtimeconfig.json
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.API\bin\Debug\net5.0\StudentCourse.API.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.API\bin\Debug\net5.0\StudentCourse.API.dll
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.API\bin\Debug\net5.0\ref\StudentCourse.API.dll
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.API\bin\Debug\net5.0\StudentCourse.API.pdb
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.API\bin\Debug\net5.0\DnsClient.dll
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.API\bin\Debug\net5.0\GreenDonut.dll
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.API\bin\Debug\net5.0\HotChocolate.Abstractions.dll
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.API\bin\Debug\net5.0\HotChocolate.AspNetCore.dll
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.API\bin\Debug\net5.0\HotChocolate.Data.dll
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.API\bin\Debug\net5.0\HotChocolate.Data.MongoDb.dll
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.API\bin\Debug\net5.0\HotChocolate.Execution.dll
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.API\bin\Debug\net5.0\HotChocolate.Fetching.dll
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.API\bin\Debug\net5.0\HotChocolate.Language.dll
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.API\bin\Debug\net5.0\HotChocolate.Language.SyntaxTree.dll
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.API\bin\Debug\net5.0\HotChocolate.Language.Utf8.dll
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.API\bin\Debug\net5.0\HotChocolate.Language.Visitors.dll
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.API\bin\Debug\net5.0\HotChocolate.Subscriptions.dll
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.API\bin\Debug\net5.0\HotChocolate.Subscriptions.InMemory.dll
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.API\bin\Debug\net5.0\HotChocolate.Types.dll
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.API\bin\Debug\net5.0\HotChocolate.Types.CursorPagination.dll
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.API\bin\Debug\net5.0\HotChocolate.Types.OffsetPagination.dll
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.API\bin\Debug\net5.0\HotChocolate.Types.Scalars.Upload.dll
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.API\bin\Debug\net5.0\HotChocolate.Utilities.dll
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.API\bin\Debug\net5.0\HotChocolate.Utilities.Introspection.dll
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.API\bin\Debug\net5.0\HotChocolate.Validation.dll
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.API\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.API\bin\Debug\net5.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.API\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.API\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.API\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.API\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.API\bin\Debug\net5.0\SharpCompress.dll
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.API\bin\Debug\net5.0\runtimes\linux\native\libsnappy64.so
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.API\bin\Debug\net5.0\runtimes\linux\native\libzstd.so
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.API\bin\Debug\net5.0\runtimes\osx\native\libsnappy64.dylib
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.API\bin\Debug\net5.0\runtimes\osx\native\libzstd.dylib
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.API\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.API\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.API\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.API\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.API\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.API\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.API\bin\Debug\net5.0\StudentCourse.Abstraction.dll
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.API\bin\Debug\net5.0\StudentCourse.Core.dll
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.API\bin\Debug\net5.0\StudentCourse.Infrastructure.dll
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.API\bin\Debug\net5.0\ZA365Solutions.Platform.Common.dll
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.API\bin\Debug\net5.0\ZA365Solutions.Platform.Messaging.dll
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.API\bin\Debug\net5.0\StudentCourse.Abstraction.pdb
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.API\bin\Debug\net5.0\StudentCourse.Core.pdb
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.API\bin\Debug\net5.0\StudentCourse.Infrastructure.pdb
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.API\bin\Debug\net5.0\ZA365Solutions.Platform.Common.pdb
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.API\bin\Debug\net5.0\ZA365Solutions.Platform.Messaging.pdb
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.API\obj\Debug\net5.0\StudentCourse.API.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.API\obj\Debug\net5.0\StudentCourse.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.API\obj\Debug\net5.0\StudentCourse.API.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.API\obj\Debug\net5.0\StudentCourse.API.AssemblyInfo.cs
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.API\obj\Debug\net5.0\StudentCourse.API.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.API\obj\Debug\net5.0\StudentCourse.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.API\obj\Debug\net5.0\StudentCourse.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.API\obj\Debug\net5.0\staticwebassets\StudentCourse.API.StaticWebAssets.Manifest.cache
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.API\obj\Debug\net5.0\staticwebassets\StudentCourse.API.StaticWebAssets.xml
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.API\obj\Debug\net5.0\scopedcss\bundle\StudentCourse.API.styles.css
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.API\obj\Debug\net5.0\StudentCourse.API.RazorTargetAssemblyInfo.cache
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.API\obj\Debug\net5.0\StudentCourse.API.csproj.CopyComplete
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.API\obj\Debug\net5.0\StudentCourse.API.dll
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.API\obj\Debug\net5.0\ref\StudentCourse.API.dll
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.API\obj\Debug\net5.0\StudentCourse.API.pdb
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.API\obj\Debug\net5.0\StudentCourse.API.genruntimeconfig.cache
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.API\bin\Debug\net5.0\StudentDepartment.Abstraction.dll
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.API\bin\Debug\net5.0\StudentDepartment.Core.dll
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.API\bin\Debug\net5.0\StudentDepartment.Abstraction.pdb
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Courses\StudentCourse.API\bin\Debug\net5.0\StudentDepartment.Core.pdb

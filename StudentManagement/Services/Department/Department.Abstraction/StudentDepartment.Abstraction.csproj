@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ZA365Solutions.Platform.Common\ZA365Solutions.Platform.Common.csproj" />
+    <ProjectReference Include="..\ZA365Solutions.Platform.Messaging\ZA365Solutions.Platform.Messaging.csproj" />
+  </ItemGroup>
+
+</Project>

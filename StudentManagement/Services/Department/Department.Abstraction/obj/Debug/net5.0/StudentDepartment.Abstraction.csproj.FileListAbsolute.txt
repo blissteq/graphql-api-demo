@@ -1,0 +1,17 @@
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Department\Department.Abstraction\obj\Debug\net5.0\StudentDepartment.Abstraction.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Department\Department.Abstraction\obj\Debug\net5.0\StudentDepartment.Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Department\Department.Abstraction\obj\Debug\net5.0\StudentDepartment.Abstraction.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Department\Department.Abstraction\obj\Debug\net5.0\StudentDepartment.Abstraction.AssemblyInfo.cs
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Department\Department.Abstraction\obj\Debug\net5.0\StudentDepartment.Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Department\Department.Abstraction\bin\Debug\net5.0\StudentDepartment.Abstraction.deps.json
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Department\Department.Abstraction\bin\Debug\net5.0\StudentDepartment.Abstraction.dll
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Department\Department.Abstraction\bin\Debug\net5.0\ref\StudentDepartment.Abstraction.dll
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Department\Department.Abstraction\bin\Debug\net5.0\StudentDepartment.Abstraction.pdb
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Department\Department.Abstraction\bin\Debug\net5.0\ZA365Solutions.Platform.Common.dll
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Department\Department.Abstraction\bin\Debug\net5.0\ZA365Solutions.Platform.Messaging.dll
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Department\Department.Abstraction\bin\Debug\net5.0\ZA365Solutions.Platform.Common.pdb
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Department\Department.Abstraction\bin\Debug\net5.0\ZA365Solutions.Platform.Messaging.pdb
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Department\Department.Abstraction\obj\Debug\net5.0\StudentDepartment.Abstraction.csproj.CopyComplete
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Department\Department.Abstraction\obj\Debug\net5.0\StudentDepartment.Abstraction.dll
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Department\Department.Abstraction\obj\Debug\net5.0\ref\StudentDepartment.Abstraction.dll
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Department\Department.Abstraction\obj\Debug\net5.0\StudentDepartment.Abstraction.pdb

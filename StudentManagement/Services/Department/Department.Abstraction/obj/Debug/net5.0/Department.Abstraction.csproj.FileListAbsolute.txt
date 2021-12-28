@@ -1,0 +1,5 @@
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Department\Department.Abstraction\obj\Debug\net5.0\Department.Abstraction.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Department\Department.Abstraction\obj\Debug\net5.0\Department.Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Department\Department.Abstraction\obj\Debug\net5.0\Department.Abstraction.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Department\Department.Abstraction\obj\Debug\net5.0\Department.Abstraction.AssemblyInfo.cs
+C:\Users\Dell\source\repos\StudentManagementGraphQL\StudentManagement\Services\Department\Department.Abstraction\obj\Debug\net5.0\Department.Abstraction.csproj.CoreCompileInputs.cache
